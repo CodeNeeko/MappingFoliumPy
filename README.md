@@ -1,2 +1,2 @@
 # MappingFoliumPy
-Mapping using Foilum and Python 
+Mapping using Foilum and Python. 
